@@ -1,0 +1,28 @@
+main {
+	border: 10px solid pink;
+	background-color: #fff;
+	flex:1;
+	.container {
+		border: 4px solid blue;
+		flex-direction: column;
+		@media (min-width: 600px) {
+			flex-direction: row;
+		}
+		.pageheader {
+			border: 3px solid green;
+			h2 {
+				text-align: center;
+			}
+			// flex:1
+		}
+		.maincontent {
+		border: 2px solid red;
+		// flex-direction: column;
+		// flex: 1;
+		h2 {
+			text-transform: uppercase;
+			color: darkred;
+			text-align: center;
+		}
+		}
+	}

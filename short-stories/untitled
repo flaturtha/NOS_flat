@@ -1,0 +1,50 @@
+<article class="ssteaser story1">
+	<img src="/_assets/img/thumb75x75.jpg" alt="" class="thumb">
+	<h1 class="title">The Brand of Cain</h1>
+	<h2 class="author">Ward Sterling</h2>
+	<h3 class="tags">professional detective</h3>
+	<h3 class="meta">3,179 / 30 mins</h3>
+</article>
+
+<article class="ssteaser story2">
+	<img src="/_assets/img/thumb75x75.jpg" alt="" class="thumb">
+	<h1 class="title">Butterfly of Death</h1>
+	<h2 class="author">Harold Gluck</h2>
+	<h3 class="tags">amateur detective</h3>
+	<h3 class="meta">6,037 words / 50 mins</h3>
+</article>
+
+<article class="ssteaser story3">
+	<img src="/_assets/img/thumb75x75.jpg" alt="" class="thumb">
+	<h1 class="title">Keep the Corpse Hot</h1>
+	<h2 class="author">T. W. Ford</h2>
+	<h3 class="tags">hardboiled</h3>
+	<h3 class="meta">13,750 words / 1 hr 45 mins</h3>
+</article>
+
+<article class="ssteaser story4">
+	<img src="/_assets/img/thumb75x75.jpg" alt="" class="thumb">
+	<h1 class="title">Ghost-Town Slays</h1>
+	<h2 class="author">James E. Hubgerford</h2>
+	<h3 class="tags">professional detective</h3>
+	<h3 class="meta">4,096 words / 31 mins</h3>
+</article>
+
+
+								<article>
+									<header>
+										<img src="/_assets/img/thumb75x75.jpg" alt="story thumb" class="storythumb" width="150px" height="150px">
+										<h1>TITLE</h1>
+										<h2>AUTHOR</h2>
+									</header>
+									<div>
+										<p class="teaserpara">
+											teaser paragraph of maybe 100 words at most; should describe the story, not just be the first paragraph but an actual teaser with keywords, etc. to help with SEO.
+										</p>
+									</div>
+									<footer>
+										<p class="meta">
+											metadata like original pub, word count, time to read, tags, etc.
+										</p>
+									</footer>
+								</article>

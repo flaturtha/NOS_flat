@@ -1,0 +1,25 @@
+#got-gridbox {
+	// border: 1px solid green;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+}
+
+#got-gridbox figure {
+	// border: 1px solid #333;
+	max-width: 300px;
+	// position: relative;
+	font-size: 0;
+	margin: 2% 0;
+	flex: 0 0 48%;
+}
+
+#got-gridbox figure figcaption {
+	// position: absolute;
+	// right: 4%;
+	// top: 5%;
+	font-family: Deseret, Trajan Pro, Trajan, Requiem, serif;
+	text-transform: uppercase;
+	font-size: 0.8rem;
+	text-align: left;
+}
