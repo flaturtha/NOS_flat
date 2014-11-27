@@ -19,12 +19,12 @@ body {
   flex-direction: column; }
 
 header {
-  background-image: url("/_assets/img/gearBG_pattern.png");
+  background-image: url("/assets/img/gearBG_pattern.png");
   height: 100px;
   max-width: 100%;
   color: #333; }
   header .container {
-    background: url("/_assets/img/gearBG.jpg") no-repeat;
+    background: url("/assets/img/gearBG.jpg") no-repeat;
     padding: 1rem; }
 
 main {
@@ -37,7 +37,7 @@ main {
         flex-direction: row; } }
 
 footer {
-  background-image: url("/_assets/img/footprints1.png");
+  background-image: url("/assets/img/footprints1.png");
   height: 55px;
   color: #808080; }
   footer small {
@@ -168,7 +168,7 @@ img {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcc214', endColorstr='#efbc39',GradientType=0 ); }
 
 #free-access .button:after {
-  content: url(/_assets/img/misc-button-arrow.png);
+  content: url(/assets/img/misc-button-arrow.png);
   margin-left: 10px; }
 
 /* popup */

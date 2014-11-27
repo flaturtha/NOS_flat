@@ -441,7 +441,7 @@ th {
 }
 
 #free-access .button:after {
-  content: url(/_assets/img/misc-button-arrow.png);
+  content: url(/assets/img/misc-button-arrow.png);
   margin-left: 10px;
 }
 
@@ -914,7 +914,7 @@ img {
 
 hr {
   height: 20px;
-  background: url(/_assets/img/hr.png) repeat-x center;
+  background: url(/assets/img/hr.png) repeat-x center;
   border: none;
   margin: 1rem 0;
 }
@@ -944,7 +944,7 @@ hr {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  background: url("/_assets/img/gearBG.jpg") no-repeat center;
+  background: url("/assets/img/gearBG.jpg") no-repeat center;
 }
 
 #masthead {
@@ -1120,7 +1120,7 @@ main {
     color: #fffdf7;
     margin: 0.5rem 0 0 -80px;
     padding: 1rem 1rem 1rem 1.375rem;
-    background: url(/_assets/img/bloodtile.jpg) repeat scroll 0 0 #333;
+    background: url(/assets/img/bloodtile.jpg) repeat scroll 0 0 #333;
   }
 }
 
@@ -1417,7 +1417,7 @@ aside {
 }
 
 #bodyfooter {
-  background-image: url("/_assets/img/footprints1.png");
+  background-image: url("/assets/img/footprints1.png");
   height: 55px;
   color: #808080;
   text-align: center;
